@@ -3,7 +3,8 @@
 A Machine Learning web application that classifies emails as **Spam** or **Not Spam** using multinomial naive bayes techniques.
 
 ## 🚀 Live Demo
-👉 (Add your Streamlit link here after deployment)
+👉 https://email-spam--classifier-hgejuh3dt4vb8yx4rvyowe.streamlit.app/
+
 
 ## 📌 Features
 - Real-time email classification
